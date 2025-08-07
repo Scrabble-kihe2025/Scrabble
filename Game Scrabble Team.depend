@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1754272220 source:c:\users\tranb\onedrive\taÌi liêòu\test\game scrabble team\main.cpp
+	"Game.h"
+
+1754303813 source:c:\users\tranb\onedrive\taÌi liêòu\test\game scrabble team\board.cpp
+	"Board.h"
+	<iostream>
+
+1754303813 c:\users\tranb\onedrive\taÌi liêòu\test\game scrabble team\board.h
+	<SDL.h>
+	<SDL_image.h>
+	<map>
+	"Constant.h"
+	"Tile.h"
+
+1754280687 c:\users\tranb\onedrive\taÌi liêòu\test\game scrabble team\constant.h
+
+1754272220 c:\users\tranb\onedrive\taÌi liêòu\test\game scrabble team\tile.h
+
+1754317427 c:\users\tranb\onedrive\taÌi liêòu\test\game scrabble team\game.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<vector>
+	<map>
+	"Board.h"
+	"TileBag.h"
+	"Dictionary.h"
+
+1754317847 source:c:\users\tranb\onedrive\taÌi liêòu\test\game scrabble team\game.cpp
+	"Game.h"
+	"Constant.h"
+	<iostream>
+	<string>
+	<algorithm>
+	"TileBag.h"
+
+1754277775 c:\users\tranb\onedrive\taÌi liêòu\test\game scrabble team\tilebag.h
+	<vector>
+	<random>
+	"Tile.h"
+
+1754277958 source:c:\users\tranb\onedrive\taÌi liêòu\test\game scrabble team\tilebag.cpp
+	"TileBag.h"
+	<algorithm>
+	<chrono>
+	<tuple>
+
+1754303195 c:\users\tranb\onedrive\taÌi liêòu\test\game scrabble team\dictionary.h
+	<string>
+	<unordered_set>
+
+1754303195 source:c:\users\tranb\onedrive\taÌi liêòu\test\game scrabble team\dictionary.cpp
+	"Dictionary.h"
+	<fstream>
+	<iostream>
+	<algorithm>
+
